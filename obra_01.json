@@ -1,0 +1,1752 @@
+{
+  "meta": {
+    "versao": 1.0,
+    "cota_pc_padrao": 100.0
+  },
+  "base_engenharia": [
+    {
+      "id_tipo": "EST8-50-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-50-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-40-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-40-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSLM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSLM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.956,
+        "dist_ini_b": 5.983,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-50-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-50-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-40-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-40-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST5-30-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST5-30-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-50-LBA30-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-50-LBA30-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA30-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA30-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBA30-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBA30-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA30-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA30-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST4-30-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST4-30-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST5-30-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST5-30-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSL-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSL-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.377,
+        "dist_ini_b": 2.988,
+        "tg_a": 0.110701,
+        "tg_b": 0.07512,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8524,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSM-V",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.548,
+        "dist_ini_b": 3.425,
+        "tg_a": 0.112269,
+        "tg_b": 0.084244,
+        "dist_furo": 0.07,
+        "h_stub_nc": 0.5815,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBSM-VS",
+      "geometria": {
+        "pe_min": 1.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.548,
+        "dist_ini_b": 3.425,
+        "tg_a": 0.112269,
+        "tg_b": 0.084244,
+        "dist_furo": 0.07,
+        "h_stub_nc": 0.5815,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA15-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.108,
+        "dist_ini_b": 4.108,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA15-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.108,
+        "dist_ini_b": 4.108,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBA15-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.108,
+        "dist_ini_b": 4.108,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-30-LBA15-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.108,
+        "dist_ini_b": 4.108,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSP-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.787,
+        "dist_ini_b": 3.567,
+        "tg_a": 0.120674,
+        "tg_b": 0.089609,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8949,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBSP-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.787,
+        "dist_ini_b": 3.567,
+        "tg_a": 0.120674,
+        "tg_b": 0.089609,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8949,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "ESTE8-30-LBA15-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.108,
+        "dist_ini_b": 4.108,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSP-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.787,
+        "dist_ini_b": 3.567,
+        "tg_a": 0.120674,
+        "tg_b": 0.089609,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8949,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSP-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.787,
+        "dist_ini_b": 3.567,
+        "tg_a": 0.120674,
+        "tg_b": 0.089609,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8949,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBA30M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBA30M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBA30-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-40-LBA30-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.111,
+        "dist_ini_b": 4.111,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA30M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBA30M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA15M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.15451,
+        "tg_b": 0.15451,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA15M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.15451,
+        "tg_b": 0.15451,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-50-LBF60M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.435,
+        "dist_ini_b": 7.435,
+        "tg_a": 0.13217,
+        "tg_b": 0.13217,
+        "dist_furo": 0.07,
+        "h_stub_nc": 1.4745,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-50-LBF60M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.435,
+        "dist_ini_b": 7.435,
+        "tg_a": 0.13217,
+        "tg_b": 0.13217,
+        "dist_furo": 0.07,
+        "h_stub_nc": 1.4745,
+        "aprof_eixo": 0.1,
+        "dim_cava": 3.5,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBST-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.748,
+        "dist_ini_b": 4.748,
+        "tg_a": 0.120699,
+        "tg_b": 0.120699,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8014,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-30-LBST-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 0.0,
+        "dist_ini_a": 4.748,
+        "dist_ini_b": 4.748,
+        "tg_a": 0.120699,
+        "tg_b": 0.120699,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.8014,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA30M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST8-40-LBA30M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBA15M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.15451,
+        "tg_b": 0.15451,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST6-40-LBA15M-VS",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.15451,
+        "tg_b": 0.15451,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.8,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST7-30-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "ESTE8-30-LBA30M-V",
+      "geometria": {
+        "pe_min": 4.5,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.816,
+        "dist_ini_b": 7.816,
+        "tg_a": 0.1545117,
+        "tg_b": 0.1545117,
+        "dist_furo": 0.05,
+        "h_stub_nc": 1.0356,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSMM-V",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    },
+    {
+      "id_tipo": "EST9-30-LBSMM-VS",
+      "geometria": {
+        "pe_min": 3.0,
+        "ext_min": 24.0,
+        "dist_ini_a": 7.959,
+        "dist_ini_b": 5.986,
+        "tg_a": 0.1213469,
+        "tg_b": 0.0910183,
+        "dist_furo": 0.06,
+        "h_stub_nc": 0.9224,
+        "aprof_eixo": 0.1,
+        "dim_cava": 2.1,
+        "g_min": 0.3,
+        "g_max": 1.8
+      }
+    }
+  ],
+  "lista_obras": [
+    {
+      "numero": "156/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 42.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 9.0,
+        "C": 9.0,
+        "D": 9.0
+      },
+      "altura_ref": 9.0,
+      "cota_elev_proj": 101.75,
+      "fundacao_fk": "EST8-50-LBSMM-V"
+    },
+    {
+      "numero": "156/2",
+      "tipo_torre": "LBSLM",
+      "extensao": 36.0,
+      "pernas": {
+        "A": 12.0,
+        "B": 12.0,
+        "C": 12.0,
+        "D": 12.0
+      },
+      "altura_ref": 12.0,
+      "cota_elev_proj": 101.94,
+      "fundacao_fk": "EST6-30-LBSLM-V"
+    },
+    {
+      "numero": "157/1",
+      "tipo_torre": "LBSLM",
+      "extensao": 24.0,
+      "pernas": {
+        "A": 10.5,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 10.5
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 101.89999999999999,
+      "fundacao_fk": "EST6-40-LBSLM-V"
+    },
+    {
+      "numero": "157/2",
+      "tipo_torre": "LBSLM",
+      "extensao": 30.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 9.0,
+        "C": 9.0,
+        "D": 9.0
+      },
+      "altura_ref": 9.0,
+      "cota_elev_proj": 101.46,
+      "fundacao_fk": "ESTR5-LBSLM-V"
+    },
+    {
+      "numero": "158/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 10.5,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 10.5
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 100.37,
+      "fundacao_fk": "ESTR5-LBSMM-V"
+    },
+    {
+      "numero": "159/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 9.0
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 100.89,
+      "fundacao_fk": "EST8-30-LBSMM-V"
+    },
+    {
+      "numero": "159/2",
+      "tipo_torre": "LBSLM",
+      "extensao": 24.0,
+      "pernas": {
+        "A": 6.0,
+        "B": 6.0,
+        "C": 6.0,
+        "D": 6.0
+      },
+      "altura_ref": 6.0,
+      "cota_elev_proj": 102.14,
+      "fundacao_fk": "EST6-30-LBSLM-V"
+    },
+    {
+      "numero": "160/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 30.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 6.0,
+        "C": 6.0,
+        "D": 9.0
+      },
+      "altura_ref": 6.0,
+      "cota_elev_proj": 102.89,
+      "fundacao_fk": "EST8-40-LBSMM-V"
+    },
+    {
+      "numero": "160/2",
+      "tipo_torre": "LBSM",
+      "extensao": 18.0,
+      "pernas": {
+        "A": 10.5,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 10.5
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 101.43,
+      "fundacao_fk": "ESTR4-LBSM-V"
+    },
+    {
+      "numero": "161/1",
+      "tipo_torre": "LBSL",
+      "extensao": 18.0,
+      "pernas": {
+        "A": 10.5,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 10.5
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 101.76,
+      "fundacao_fk": "EST4-30-LBSL-V"
+    },
+    {
+      "numero": "162/1",
+      "tipo_torre": "LBST",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 6.0,
+        "B": 6.0,
+        "C": 6.0,
+        "D": 6.0
+      },
+      "altura_ref": 6.0,
+      "cota_elev_proj": 102.2,
+      "fundacao_fk": "ESTR5-LBST-V"
+    },
+    {
+      "numero": "162/2",
+      "tipo_torre": "LBST",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 6.0,
+        "B": 6.0,
+        "C": 6.0,
+        "D": 6.0
+      },
+      "altura_ref": 6.0,
+      "cota_elev_proj": 102.0,
+      "fundacao_fk": "EST8-30-LBST-V"
+    },
+    {
+      "numero": "163/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 12.0,
+        "B": 12.0,
+        "C": 12.0,
+        "D": 12.0
+      },
+      "altura_ref": 12.0,
+      "cota_elev_proj": 101.67,
+      "fundacao_fk": "EST6-30-LBSMM-V"
+    },
+    {
+      "numero": "164/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 48.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 9.0
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 101.37,
+      "fundacao_fk": "EST5-30-LBSMM-V"
+    },
+    {
+      "numero": "166/1",
+      "tipo_torre": "LBSMM",
+      "extensao": 42.0,
+      "pernas": {
+        "A": 7.5,
+        "B": 7.5,
+        "C": 7.5,
+        "D": 7.5
+      },
+      "altura_ref": 7.5,
+      "cota_elev_proj": 101.16,
+      "fundacao_fk": "EST8-30-LBSMM-V"
+    },
+    {
+      "numero": "166/2",
+      "tipo_torre": "LBSMM",
+      "extensao": 30.0,
+      "pernas": {
+        "A": 9.0,
+        "B": 9.0,
+        "C": 9.0,
+        "D": 7.5
+      },
+      "altura_ref": 9.0,
+      "cota_elev_proj": 101.32,
+      "fundacao_fk": "EST6-30-LBSMM-V"
+    },
+    {
+      "numero": "167/1",
+      "tipo_torre": "LBSLM",
+      "extensao": 30.0,
+      "pernas": {
+        "A": 12.0,
+        "B": 12.0,
+        "C": 12.0,
+        "D": 12.0
+      },
+      "altura_ref": 12.0,
+      "cota_elev_proj": 101.13,
+      "fundacao_fk": "EST8-30-LBSLM-V"
+    },
+    {
+      "numero": "167/2",
+      "tipo_torre": "LBSLM",
+      "extensao": 24.0,
+      "pernas": {
+        "A": 6.0,
+        "B": 6.0,
+        "C": 6.0,
+        "D": 6.0
+      },
+      "altura_ref": 6.0,
+      "cota_elev_proj": 102.15,
+      "fundacao_fk": "EST7-40-LBSLM-V"
+    },
+    {
+      "numero": "168/1",
+      "tipo_torre": "LBA30M",
+      "extensao": 42.0,
+      "pernas": {
+        "A": 12.0,
+        "B": 12.0,
+        "C": 12.0,
+        "D": 12.0
+      },
+      "altura_ref": 12.0,
+      "cota_elev_proj": 102.0,
+      "fundacao_fk": "EST7-40-LBA30M-V"
+    },
+    {
+      "numero": "168/2",
+      "tipo_torre": "LBSMM",
+      "extensao": 42.0,
+      "pernas": {
+        "A": 12.0,
+        "B": 10.5,
+        "C": 10.5,
+        "D": 12.0
+      },
+      "altura_ref": 10.5,
+      "cota_elev_proj": 102.54,
+      "fundacao_fk": "EST7-40-LBSMM-V"
+    }
+  ]
+}
