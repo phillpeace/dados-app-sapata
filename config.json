@@ -3,6 +3,6 @@
     "id": "obra_01",
     "nome": "Obra Exemplo 01",
     "versao": "1.0",
-    "url_json": "LINK_DA_OBRA_01_AQUI"
+    "url_json": "https://raw.githubusercontent.com/phillpeace/dados-app-sapata/refs/heads/main/obra_01.json"
   }
 ]
