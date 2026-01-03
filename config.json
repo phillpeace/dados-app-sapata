@@ -1,7 +1,13 @@
 [
   {
     "id": "obra_01",
-    "nome": "Obra 135 TNE",
+    "nome": "Obra 135 | Cliente: TNE",
+    "versao": "1.0",
+    "url_json": "https://raw.githubusercontent.com/phillpeace/dados-app-sapata/refs/heads/main/obra_01.json"
+  },
+  {
+    "id": "obra_02",
+    "nome": "Obra 139 | Cliente: GATE",
     "versao": "1.0",
     "url_json": "https://raw.githubusercontent.com/phillpeace/dados-app-sapata/refs/heads/main/obra_01.json"
   }
